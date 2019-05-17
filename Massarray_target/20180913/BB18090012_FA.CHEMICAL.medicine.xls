@@ -1,0 +1,63 @@
+#药物	基因	检测位点	基因型	疗效评分	毒副作用评分	疗效	毒副作用	综合评价
+奥沙利铂	ERCC1	rs11615	GG	63.2	50	较好	一般	优选
+奥沙利铂	ERCC2	rs13181	TT					
+奥沙利铂	GSTP1	rs1695	AG					
+奥沙利铂	MTHFR	rs1801131	TT					
+奥沙利铂	MTHFR	rs1801133	AG					
+奥沙利铂	XRCC1	rs25487	CC					
+长春瑞滨	ABCB1	rs1045642	GG	53.3	60	一般	较强	慎用
+长春瑞滨	CASP7	rs12415607	CC					
+长春瑞滨	CASP7	rs2227310	CC					
+长春瑞滨	CASP7	rs4353229	TT					
+长春瑞滨	ERCC2	rs13181	TT					
+长春瑞滨	MTHFR	rs1801133	AG					
+长春瑞滨	STMN1	rs182455	AG					
+多西他赛	ABCB1	rs1045642	GG	56	47.5	一般	一般	备选
+多西他赛	ABCB1	rs1128503	TT					
+多西他赛	ABCB1	rs2032582	CC					
+多西他赛	CYP3A4	rs2740574	TT					
+多西他赛	ERCC1	rs11615	GG					
+多西他赛	ERCC2	rs13181	TT					
+多西他赛	STMN1	rs182455	AG					
+环磷酰胺	ABCB1	rs2032582	CC	50	52.2	一般	一般	备选
+环磷酰胺	CYP2C19	rs4244285	GG					
+环磷酰胺	CYP3A4	rs2740574	TT					
+环磷酰胺	GSTA1	rs3957357	GG					
+环磷酰胺	GSTP1	rs1695	AG					
+环磷酰胺	MTHFR	rs1801133	AG					
+环磷酰胺	NQO1	rs1800566	AG					
+环磷酰胺	PNPLA3	rs738409	CC					
+环磷酰胺	TP53	rs1042522	GG					
+吉西他滨	CDA	rs2072671	AA	53.3	65	一般	较强	慎用
+吉西他滨	RRM1	rs11030918	TT					
+吉西他滨	RRM1	rs12806698	CC					
+吉西他滨	RRM1	rs9937	AA					
+卡铂	ERCC1	rs11615	GG	43.3	50	一般	一般	备选
+卡铂	MTHFR	rs1801133	AG					
+卡铂	XRCC1	rs25487	CC					
+奈达铂	ERCC1	rs11615	GG	66.3	43.3	较好	一般	优选
+奈达铂	ERCC1	rs3212986	AA					
+奈达铂	XRCC1	rs25487	CC					
+培美曲塞	DHFR	rs1650697	AG	50	60	一般	较强	慎用
+培美曲塞	GGH	rs11545078	GG					
+培美曲塞	MTHFR	rs1801131	TT					
+培美曲塞	MTHFR	rs1801133	AG					
+顺铂	ERCC1	rs11615	GG	67.5	26.7	较好	较弱	优选
+顺铂	ERCC1	rs3212986	AA					
+顺铂	TP53	rs1042522	GG					
+顺铂	XPC	rs2228001	TT					
+顺铂	XRCC1	rs25487	CC					
+伊立替康	AREG	rs11942466	AA	55	47.2	一般	一般	备选
+伊立替康	SLCO1B1	rs2306283	GG					
+伊立替康	UGT1A1	rs4148323	GG					
+伊立替康	UGT1A1	rs8175347	TA6.TA7					
+伊立替康	UGT1A9	rs11692021	TT					
+伊立替康	NA	rs4655567	CG					
+依托泊苷	DYNC2H1	rs716274	AG	53.3	50	一般	一般	备选
+依托泊苷	NQO1	rs1800566	AG					
+依托泊苷	TP53	rs1042522	GG					
+依托泊苷	YAP1	rs10895256	GG					
+紫杉醇	ABCB1	rs1045642	GG	40	36.7	较差	较弱	备选
+紫杉醇	ABCB1	rs2032582	CC					
+紫杉醇	CYP3A4	rs2740574	TT					
+紫杉醇	TP53	rs1042522	GG					

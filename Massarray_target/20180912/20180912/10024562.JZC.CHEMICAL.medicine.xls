@@ -1,0 +1,72 @@
+#药物	基因	检测位点	基因型	疗效评分	毒副作用评分	疗效	毒副作用	综合评价
+奥沙利铂	ERCC1	rs11615	GG	41.7	52	一般	一般	备选
+奥沙利铂	ERCC2	rs13181	TT					
+奥沙利铂	GSTP1	rs1695	AA					
+奥沙利铂	MTHFR	rs1801131	TT					
+奥沙利铂	MTHFR	rs1801133	AG					
+奥沙利铂	XRCC1	rs25487	TT					
+氟尿嘧啶	DPYD	rs3918290	CC	55	54.8	一般	一般	备选
+氟尿嘧啶	DPYD	rs55886062	AA					
+氟尿嘧啶	DPYD	rs67376798	TT					
+氟尿嘧啶	GSTP1	rs1695	AA					
+氟尿嘧啶	NQO1	rs1800566	AA					
+氟尿嘧啶	TP53	rs1042522	CG					
+甲酰四氢叶酸	ABCC2	rs717620	CC	55	55.6	一般	一般	备选
+甲酰四氢叶酸	ABCC5	rs10937158	CC					
+甲酰四氢叶酸	ABCC5	rs2292997	GG					
+甲酰四氢叶酸	ABCC5	rs3749438	AA					
+甲酰四氢叶酸	ABCG1	rs225440	CT					
+甲酰四氢叶酸	CSPG4	rs1127648	AA					
+甲酰四氢叶酸	DPYD	rs67376798	TT					
+甲酰四氢叶酸	EGFR	rs712830	CC					
+甲酰四氢叶酸	ERCC1	rs11615	GG					
+甲酰四氢叶酸	ERCC1	rs3212948	GG					
+甲酰四氢叶酸	ERCC2	rs13181	TT					
+甲酰四氢叶酸	GATA3	rs3824662	CC					
+甲酰四氢叶酸	GSTP1	rs1695	AA					
+甲酰四氢叶酸	MTHFR	rs1801131	TT					
+甲酰四氢叶酸	MTHFR	rs1801133	AG					
+甲酰四氢叶酸	MTHFR	rs1801394	AA					
+甲酰四氢叶酸	NOS3	rs1799983	GG					
+甲酰四氢叶酸	PDGFRB	rs2302273	AG					
+甲酰四氢叶酸	RALBP1	rs329007	AG					
+甲酰四氢叶酸	RGS5	rs1056515	GT					
+甲酰四氢叶酸	RGS5	rs2661280	GG					
+甲酰四氢叶酸	SELE	rs3917412	CT					
+甲酰四氢叶酸	SLC19A1	rs1051266	CC					
+甲酰四氢叶酸	SLCO1B1	rs2306283	AG					
+甲酰四氢叶酸	UMPS	rs1801019	CG					
+甲酰四氢叶酸	VEGFA	rs3025039	CC					
+甲酰四氢叶酸	XRCC1	rs25487	TT					
+甲酰四氢叶酸	XRCC3	rs1799794	CC					
+卡培他滨	DPYD	rs3918290	CC	60	30	较好	较弱	优选
+卡培他滨	HLA-G	rs371194629	ATTTGTTCATGCCT.ATTTGTTCATGCCT					
+卡培他滨	MIR27A	rs895819	TT					
+卡培他滨	SELE	rs3917412	CT					
+亚叶酸钙	ABCC5	rs10937158	CC	55	56.2	一般	一般	备选
+亚叶酸钙	CSPG4	rs1127648	AA					
+亚叶酸钙	ERCC1	rs11615	GG					
+亚叶酸钙	ERCC1	rs3212948	GG					
+亚叶酸钙	ERCC2	rs13181	TT					
+亚叶酸钙	GATA3	rs3824662	CC					
+亚叶酸钙	GSTP1	rs1695	AA					
+亚叶酸钙	MTHFR	rs1801131	TT					
+亚叶酸钙	NOS3	rs1799983	GG					
+亚叶酸钙	RALBP1	rs329007	AG					
+亚叶酸钙	RGS5	rs1056515	GT					
+亚叶酸钙	RGS5	rs2661280	GG					
+亚叶酸钙	SELE	rs3917412	CT					
+亚叶酸钙	SLC19A1	rs1051266	CC					
+亚叶酸钙	SLCO1B1	rs2306283	AG					
+亚叶酸钙	SPARC	rs1059829	GG					
+亚叶酸钙	UGT1A1	rs8175347	TA7.TA7					
+亚叶酸钙	UMPS	rs1801019	CG					
+亚叶酸钙	VEGFA	rs3025039	CC					
+亚叶酸钙	XRCC1	rs25487	TT					
+亚叶酸钙	XRCC3	rs1799794	CC					
+伊立替康	AREG	rs11942466	CC	60	52.2	较好	一般	优选
+伊立替康	SLCO1B1	rs2306283	AG					
+伊立替康	UGT1A1	rs4148323	GG					
+伊立替康	UGT1A1	rs8175347	TA7.TA7					
+伊立替康	UGT1A9	rs11692021	CT					
+伊立替康	NA	rs4655567	GG					

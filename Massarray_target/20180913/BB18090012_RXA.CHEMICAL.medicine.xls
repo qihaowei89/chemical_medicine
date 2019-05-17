@@ -1,0 +1,51 @@
+#药物	基因	检测位点	基因型	疗效评分	毒副作用评分	疗效	毒副作用	综合评价
+表柔比星	ERCC1	rs11615	GG	48	53.3	一般	一般	备选
+表柔比星	GSTO1	rs4925	CC					
+表柔比星	GSTP1	rs1695	AG					
+表柔比星	NQO1	rs1800566	AG					
+表柔比星	XRCC1	rs25487	CC					
+多西他赛	ABCB1	rs1045642	GG	47.5	47.5	一般	一般	备选
+多西他赛	ABCB1	rs2032582	CC					
+多西他赛	CYP3A4	rs2740574	TT					
+多西他赛	ERCC1	rs11615	GG					
+多西他赛	ERCC2	rs13181	TT					
+多西他赛	STMN1	rs182455	CT					
+氟尿嘧啶	DPYD	rs3918290	CC	52.5	54.1	一般	一般	备选
+氟尿嘧啶	DPYD	rs55886062	AA					
+氟尿嘧啶	DPYD	rs67376798	TT					
+氟尿嘧啶	GSTP1	rs1695	AG					
+氟尿嘧啶	NQO1	rs1800566	AG					
+氟尿嘧啶	TP53	rs1042522	GG					
+氟尿嘧啶	UMPS	rs1801019	CG					
+环磷酰胺	ABCB1	rs2032582	CC	50	52.2	一般	一般	备选
+环磷酰胺	CYP2C19	rs4244285	GG					
+环磷酰胺	CYP3A4	rs2740574	TT					
+环磷酰胺	GSTA1	rs3957357	GG					
+环磷酰胺	GSTP1	rs1695	AG					
+环磷酰胺	MTHFR	rs1801133	AG					
+环磷酰胺	NQO1	rs1800566	AG					
+环磷酰胺	PNPLA3	rs738409	CC					
+环磷酰胺	TP53	rs1042522	GG					
+吉西他滨	CDA	rs2072671	AA	53.3	65	一般	较强	慎用
+吉西他滨	RRM1	rs11030918	TT					
+吉西他滨	RRM1	rs12806698	CC					
+吉西他滨	RRM1	rs9937	AA					
+甲氨蝶呤	DHFR	rs70991108	del.TGGCGCGTCCCGCCCAGGT	50	50	一般	一般	备选
+甲氨蝶呤	ITPA	rs1127354	CC					
+甲氨蝶呤	TPMT	rs1800460	GG					
+卡铂	ERCC1	rs11615	GG	43.3	50	一般	一般	备选
+卡铂	MTHFR	rs1801133	AG					
+卡铂	XRCC1	rs25487	CC					
+来曲唑	CYP19A1	rs4646	CC	50	60	一般	较强	慎用
+来曲唑	CYP19A1	rs6493497	GG					
+来曲唑	ESR1	rs4870061	CT					
+来曲唑	ESR1	rs9322335	CT					
+顺铂	ERCC1	rs11615	GG	67.5	26.7	较好	较弱	优选
+顺铂	ERCC1	rs3212986	AA					
+顺铂	TP53	rs1042522	GG					
+顺铂	XPC	rs2228001	TT					
+顺铂	XRCC1	rs25487	CC					
+紫杉醇	ABCB1	rs1045642	GG	40	36.7	较差	较弱	备选
+紫杉醇	ABCB1	rs2032582	CC					
+紫杉醇	CYP3A4	rs2740574	TT					
+紫杉醇	TP53	rs1042522	GG					

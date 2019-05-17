@@ -1,0 +1,15 @@
+Sample rs1056892 rs4880 rs25487 rs1801019 rs716274 rs67376798 rs11598702 rs4148323 rs1801394 rs151264360 rs1045642 rs1695 rs7779029 rs2228001 rs1801133 rs3918290 rs3212986 rs55886062 rs1517114 rs1042522 rs1800566 rs11045879 rs4646487 rs2238472 rs11615 rs3219484 rs13181 rs1051740 rs1128503 rs12210538 rs1042858 rs1402467 rs4646 rs1130214 rs60369023 rs2227291 rs6072262 rs1142345 rs2231142
+10022621 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10024196 G AG TC G A T T G AG TTAAAG.DEL A A TC T G C CA TA G C AG CT TC C G C T T A A AG C CA C G G G T T
+10025026 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+10025295 GA AG TC CG GA T T AG A TTAAAG.DEL G AG TC GT AG C CA TA G GC G T TC C G C GT T GA A A C C C G CG G T G
+10025333 GA AG C G A T T G A TTAAAG.DEL GA A T GT AG C CA TA G GC AG T C C G C T C A A G GC CA C G G G T GT
+10025420 G A TC G A T T A A TTAAAG.DEL GT A TC T G C CA TA G G AG CT C TC G C T C A A A C C C G G G T T
+10025827 GA A T G A T CT AG AG TTAAAG.DEL GA AG T T A C CA - G C AG CT C C G C T CT A A AG GC C C G CG G T G
+22023299-1 GA AG T G A T T G AG TTAAAG.DEL GA A T G AG C CA TA G GC A T TC C G C T T G A A C C CA G G G T GT
+22024797 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+BB18080024 G AG C G GA T CT G A TTAAAG.DEL GA AG T GT AG C CA TA G C A CT C TC G C T CT A A A C C C G G G T GT
+LD17037100 GA AG C CG A T CT AG A DEL GA A T GT AG C CA TA CG GC AG CT C TC A C GT CT A A A C C C G G G T GT
+SZA033888 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+SZA033898 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+SZA100306 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

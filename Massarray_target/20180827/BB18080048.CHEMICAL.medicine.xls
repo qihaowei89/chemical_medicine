@@ -1,0 +1,53 @@
+#药物	基因	检测位点	基因型	疗效评分	毒副作用评分	疗效	毒副作用	综合评价
+长春瑞滨	ABCB1	rs1045642	GG	56.7	60	一般	较强	慎用
+长春瑞滨	CASP7	rs12415607	AC					
+长春瑞滨	CASP7	rs2227310	CG					
+长春瑞滨	CASP7	rs4353229	CT					
+长春瑞滨	ERCC2	rs13181	TT					
+长春瑞滨	MTHFR	rs1801133	GG					
+长春瑞滨	STMN1	rs182455	AA					
+长春新碱	ABCB1	rs1045642	GG	46.7	53.3	一般	一般	备选
+长春新碱	ABCB1	rs2032582	CC					
+长春新碱	GSTA1	rs3957357	GG					
+长春新碱	MTHFR	rs1801133	GG					
+长春新碱	PNPLA3	rs738409	CG					
+多西他赛	ABCB1	rs1045642	GG	56	47.5	一般	一般	备选
+多西他赛	ABCB1	rs1128503	AA					
+多西他赛	ABCB1	rs2032582	CC					
+多西他赛	CYP3A4	rs2740574	TT					
+多西他赛	ERCC1	rs11615	GG					
+多西他赛	ERCC2	rs13181	TT					
+多西他赛	STMN1	rs182455	AA					
+氟尿嘧啶	DPYD	rs3918290	CC	62.5	37.1	较好	较弱	优选
+氟尿嘧啶	DPYD	rs55886062	AA					
+氟尿嘧啶	DPYD	rs67376798	TT					
+氟尿嘧啶	GSTP1	rs1695	AG					
+氟尿嘧啶	NQO1	rs1800566	AG					
+氟尿嘧啶	TP53	rs1042522	CG					
+氟尿嘧啶	UMPS	rs1801019	GG					
+吉西他滨	CDA	rs2072671	AA	70	60	较好	较强	备用
+吉西他滨	RRM1	rs11030918	CT					
+吉西他滨	RRM1	rs12806698	AC					
+吉西他滨	RRM1	rs9937	AA					
+卡铂	ERCC1	rs11615	GG	40	50	较差	一般	慎用
+卡铂	MTHFR	rs1801133	GG					
+卡铂	XRCC1	rs25487	CT					
+培美曲塞	DHFR	rs1650697	GG	50	55	一般	一般	备选
+培美曲塞	GGH	rs11545078	GG					
+培美曲塞	MTHFR	rs1801131	GG					
+培美曲塞	MTHFR	rs1801133	GG					
+顺铂	ERCC1	rs11615	GG	125	100	较好	较强	备用
+顺铂	ERCC1	rs3212986	CC					
+顺铂	TP53	rs1042522	CG					
+顺铂	XPC	rs2228001	GG					
+顺铂	XRCC1	rs25487	CT					
+伊立替康	AREG	rs11942466	AA	55	47.2	一般	一般	备选
+伊立替康	SLCO1B1	rs2306283	GG					
+伊立替康	UGT1A1	rs4148323	GG					
+伊立替康	UGT1A1	rs8175347	TA7.TA7					
+伊立替康	UGT1A9	rs11692021	TT					
+伊立替康	NA	rs4655567	CG					
+紫杉醇	ABCB1	rs1045642	GG	50	36.7	一般	较弱	备选
+紫杉醇	ABCB1	rs2032582	CC					
+紫杉醇	CYP3A4	rs2740574	TT					
+紫杉醇	TP53	rs1042522	CG					

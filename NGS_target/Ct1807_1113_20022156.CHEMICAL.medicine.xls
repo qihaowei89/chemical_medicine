@@ -1,0 +1,141 @@
+#药物	基因	检测位点	基因型	毒副作用评分	疗效评分	疗效	毒副作用	综合评价
+阿那曲唑	CYP19A1	rs4646	AA	0	55	一般	较弱	备选
+阿那曲唑	CYP19A1	rs727479	CC					
+奥沙利铂	ERCC1	rs11615	AA	45	36.7	较差	一般	慎用
+奥沙利铂	ERCC2	rs13181	TT					
+奥沙利铂	GSTP1	rs1695	AA					
+奥沙利铂	MTHFR	rs1801131	TT					
+奥沙利铂	MTHFR	rs1801133	AG					
+奥沙利铂	XRCC1	rs25487	TT					
+表柔比星	ERCC1	rs11615	AA	38	64	较好	较弱	优选
+表柔比星	GSTO1	rs4925	CC					
+表柔比星	GSTP1	rs1695	AA					
+表柔比星	NQO1	rs1800566	GG					
+表柔比星	XRCC1	rs25487	TT					
+长春瑞滨	CASP7	rs12415607	CC	0	50	一般	较弱	备选
+长春瑞滨	CASP7	rs2227310	CC					
+长春瑞滨	CASP7	rs4353229	TT					
+长春瑞滨	MTHFR	rs1801133	AG					
+长春瑞滨	STMN1	rs182455	AA					
+多西他赛	ABCB1	rs1045642	AA	52	40	较差	一般	慎用
+多西他赛	ABCB1	rs2032582	AA					
+多西他赛	CYP3A4	rs2740574	CC					
+多西他赛	ERCC1	rs11615	AA					
+多西他赛	ERCC2	rs13181	TT					
+氟尿嘧啶	DPYD	rs3918290	CC	58.4	31.4	较差	一般	慎用
+氟尿嘧啶	DPYD	rs55886062	AA					
+氟尿嘧啶	DPYD	rs67376798	TT					
+氟尿嘧啶	GSTP1	rs1695	AA					
+氟尿嘧啶	NQO1	rs1800566	GG					
+氟尿嘧啶	TP53	rs1042522	GG					
+氟尿嘧啶	UMPS	rs1801019	GG					
+环磷酰胺	ABCB1	rs2032582	AA	61.1	29.9	较差	较强	慎用
+环磷酰胺	CYP2C19	rs4244285	GG					
+环磷酰胺	CYP3A4	rs2740574	CC					
+环磷酰胺	GSTA1	rs3957357	AA					
+环磷酰胺	GSTP1	rs1695	AA					
+环磷酰胺	MTHFR	rs1801133	AG					
+环磷酰胺	NQO1	rs1800566	GG					
+环磷酰胺	PNPLA3	rs738409	CC					
+环磷酰胺	TP53	rs1042522	GG					
+吉西他滨	CDA	rs2072671	AA	65	40	较差	较强	慎用
+吉西他滨	RRM1	rs11030918	TT					
+吉西他滨	RRM1	rs12806698	CC					
+吉西他滨	RRM1	rs9937	AA					
+甲氨蝶呤	DHFR	rs3045983	GGGAGCTGG/-	50	16.7	较差	一般	慎用
+甲氨蝶呤	ITPA	rs1127354	CC					
+甲氨蝶呤	TPMT	rs1800460	GG					
+甲酰四氢叶酸	ABCC2	rs717620	CC	29.3	30.7	较差	较弱	备选
+甲酰四氢叶酸	ABCC5	rs10937158	TT					
+甲酰四氢叶酸	ABCC5	rs2292997	GG					
+甲酰四氢叶酸	ABCC5	rs3749438	GG					
+甲酰四氢叶酸	ABCG1	rs225440	CC					
+甲酰四氢叶酸	CSPG4	rs1127648	AA					
+甲酰四氢叶酸	DPYD	rs67376798	TT					
+甲酰四氢叶酸	EGFR	rs712830	AA					
+甲酰四氢叶酸	ERCC1	rs11615	AA					
+甲酰四氢叶酸	ERCC1	rs3212948	GG					
+甲酰四氢叶酸	ERCC2	rs13181	TT					
+甲酰四氢叶酸	GATA3	rs3824662	CC					
+甲酰四氢叶酸	GSTP1	rs1695	AA					
+甲酰四氢叶酸	KLC1XRCC3	rs861539	GG					
+甲酰四氢叶酸	MTHFR	rs1801131	TT					
+甲酰四氢叶酸	MTHFR	rs1801133	AG					
+甲酰四氢叶酸	MTHFR	rs1801394	AA					
+甲酰四氢叶酸	NOS3	rs1799983	TT					
+甲酰四氢叶酸	PDGFRB	rs2302273	GG					
+甲酰四氢叶酸	RALBP1	rs329007	GG					
+甲酰四氢叶酸	RGS5	rs1056515	GG					
+甲酰四氢叶酸	RGS5	rs2661280	GG					
+甲酰四氢叶酸	SLC19A1	rs1051266	TT					
+甲酰四氢叶酸	SLCO1B1	rs2306283	AA					
+甲酰四氢叶酸	UMPS	rs1801019	GG					
+甲酰四氢叶酸	VEGFA	rs3025039	CC					
+甲酰四氢叶酸	XRCC1	rs25487	TT					
+卡铂	ERCC1	rs11615	AA	20	40	较差	较弱	备选
+卡铂	MTHFR	rs1801133	AG					
+卡铂	XRCC1	rs25487	TT					
+卡培他滨	DPYD	rs1801159	TT	77.8	44.4	一般	较强	慎用
+卡培他滨	DPYD	rs3918290	CC					
+卡培他滨	DPYD	rs55886062	GG					
+卡培他滨	DPYD	rs67376798	TT					
+卡培他滨	HLA-G	rs371194629	-/-					
+卡培他滨	MIR27A	rs895819	TT					
+卡培他滨	PTGS2	rs5275	AA					
+卡培他滨	TYMS	rs151264360	TTAAAG/TTAAAG					
+卡培他滨	UMPS	rs1801019	GG					
+来曲唑	CYP19A1	rs4646	AA	36.7	20	较差	较弱	备选
+来曲唑	CYP19A1	rs6493497	GG					
+来曲唑	ESR1	rs4870061	TT					
+奈达铂	ERCC1	rs11615	AA	56.7	40	较差	一般	慎用
+奈达铂	ERCC1	rs3212986	CC					
+奈达铂	XRCC1	rs25487	TT					
+培美曲塞	DHFR	rs1650697	AA	24	30	较差	较弱	备选
+培美曲塞	GGH	rs11545078	GG					
+培美曲塞	MTHFR	rs1801131	TT					
+培美曲塞	MTHFR	rs1801133	AG					
+培美曲塞	TYMS	rs151264360	TTAAAG/TTAAAG					
+顺铂	ERCC1	rs11615	AA	43.8	30	较差	一般	慎用
+顺铂	ERCC1	rs3212986	CC					
+顺铂	TP53	rs1042522	GG					
+顺铂	XPC	rs2228001	GG					
+顺铂	XRCC1	rs25487	TT					
+他莫昔芬	ABCC2	rs3740065	AA	0	69.6	较好	较弱	优选
+他莫昔芬	CYP2C19	rs12248560	CC					
+他莫昔芬	CYP2C19	rs4244285	GG					
+他莫昔芬	CYP2D6	rs1065852	GG					
+他莫昔芬	CYP2D6	rs3892097	CC					
+亚叶酸钙	ABCC5	rs10937158	TT	19	42	一般	较弱	备选
+亚叶酸钙	CSPG4	rs1127648	AA					
+亚叶酸钙	ERCC1	rs11615	AA					
+亚叶酸钙	ERCC1	rs3212948	GG					
+亚叶酸钙	ERCC2	rs13181	TT					
+亚叶酸钙	GATA3	rs3824662	CC					
+亚叶酸钙	GSTP1	rs1695	AA					
+亚叶酸钙	MTHFR	rs1801131	TT					
+亚叶酸钙	NOS3	rs1799983	TT					
+亚叶酸钙	RALBP1	rs329007	GG					
+亚叶酸钙	RGS5	rs1056515	GG					
+亚叶酸钙	RGS5	rs2661280	GG					
+亚叶酸钙	SLC19A1	rs1051266	TT					
+亚叶酸钙	SLCO1B1	rs2306283	AA					
+亚叶酸钙	SPARC	rs1059829	GG					
+亚叶酸钙	UGT1A1	rs8175347	TA6/TA6					
+亚叶酸钙	UMPS	rs1801019	GG					
+亚叶酸钙	VEGFA	rs3025039	CC					
+亚叶酸钙	XRCC1	rs25487	TT					
+亚叶酸钙	XRCC3	rs861539	GG					
+伊立替康	AREG	rs11942466	CC	15	40	较差	较弱	备选
+伊立替康	NA	rs4655567	GG					
+伊立替康	SLCO1B1	rs2306283	AA					
+伊立替康	UGT1A1	rs4148323	GG					
+伊立替康	UGT1A1	rs8175347	TA6/TA6					
+伊立替康	UGT1A9	rs11692021	TT					
+依托泊苷	DYNC2H1	rs716274	AA	12.5	45	一般	较弱	备选
+依托泊苷	NQO1	rs1800566	GG					
+依托泊苷	TP53	rs1042522	GG					
+依托泊苷	YAP1	rs10895256	TT					
+紫杉醇	ABCB1	rs1045642	AA	52.2	32.5	较差	一般	慎用
+紫杉醇	ABCB1	rs2032582	AA					
+紫杉醇	CYP3A4	rs2740574	CC					
+紫杉醇	TP53	rs1042522	GG					
